@@ -1,35 +1,35 @@
 <p align="center">
     <h1 align="center">RimSort</h1>
-    <p align="center">A free and open source multi-platform mod manager for the video game RimWorld.<br>
-    Built from the ground up to be reliable and community managed.<br>
-    Includes support for Linux, Mac, and Windows.</p>
+    <p align="center">Um gerenciador de mods gratuito e de código aberto para várias plataformas para o videogame RimWorld.<br>
+    Construído desde o início para ser confiável e gerenciado pela comunidade.<br>
+    Inclui suporte para Linux, Mac e Windows.</p>
     <p align="center"><strong><a href="https://github.com/RimSort/RimSort/releases">Releases</a> | <a href="https://rimsort.github.io/RimSort/">Wiki</a> | <a href="https://discord.gg/aV7g69JmR2">Discord</a></strong> </p>
     <br><br><br>
 </p>
 
 ![RimSort Preview](./docs/rimsort_preview.png)
 
-## Installation
+## Instalação
 
-To install RimSort, visit the [Releases][Releases] page and download the latest zipped release for your operating system.
+Para instalar o RimSort, acesse a página [Versões][Versões] e baixe a versão mais recente compactada para o seu sistema operacional.
 
-For Windows and Linux, unzip the download and run the `RimSort` executable inside the unzipped folder.
+Para Windows e Linux, descompacte o arquivo baixado e execute o executável `RimSort` dentro da pasta descompactada.
 
-For macOS, make sure you grab the appropriate release per your CPU (i386 is for an Intel CPU Mac, ARM is for an Apple M1/M2 CPU Mac). You may need to follow [special instructions](https://rimsort.github.io/RimSort/user-guide/downloading-and-installing#macos) to get around Gatekeeper errors.
+Para macOS, certifique-se de obter a versão apropriada para sua CPU (i386 é para um Mac com CPU Intel, ARM é para um Mac com CPU Apple M1/M2). Pode ser necessário seguir [instruções especiais](https://rimsort.github.io/RimSort/user-guide/downloading-and-installing#macos) para contornar erros do Gatekeeper.
 
-Check the [wiki][Wiki] for more detailed instructions.
+Consulte o [wiki][Wiki] para obter instruções mais detalhadas.
 
-## Contributing
+## Contribuição
 
-Bugs and feature requests are tracked in the [Issues][Issues] section of this repo. If you run into a bug or have a feature suggestion, feel free to create an Issue here yourself!
+Os bugs e solicitações de recursos são rastreados na seção [Issues][Issues] deste repositório. Se você encontrar um bug ou tiver uma sugestão de recurso, sinta-se à vontade para criar uma Issue aqui!
 
-See the [wiki][Wiki] for detailed instructions on building RimSort yourself as well as guidelines for making pull requests.
+Consulte o [wiki][Wiki] para obter instruções detalhadas sobre como compilar o RimSort por conta própria, bem como diretrizes para fazer pull requests.
 
-Interested in helping translate RimSort to your language? Check out our [Translation Guidelines](https://rimsort.github.io/RimSort/development-guide/translation-guidelines) for detailed instructions on how to contribute translations.
+Interessado em ajudar a traduzir o RimSort para o seu idioma? Confira nossas [Diretrizes de tradução](https://rimsort.github.io/RimSort/development-guide/translation-guidelines) para obter instruções detalhadas sobre como contribuir com traduções.
 
-## FAQ and Issues
+## Perguntas frequentes e problemas
 
-If you have an issue, make sure you **checked the [wiki][Wiki]** for a solution.
+Se você tiver algum problema, certifique-se de **verificar o [wiki][Wiki]** para encontrar uma solução.
 
 [![Join us on Discord](https://github-production-user-asset-6210df.s3.amazonaws.com/2766946/248529301-486f4f8c-fed5-4fe1-832f-6461b7ce3a55.png)][Discord]
 
